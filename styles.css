@@ -1,0 +1,23 @@
+body {
+    background-color: white;
+  }
+
+.col {
+    color: blue;
+}
+
+img {
+    opacity: 0.3;
+}
+
+
+/* https://www.w3schools.com/css/css_link.asp */
+a:visited {
+    color: red;
+    font-family: "Times New Roman", Times, serif;
+}
+
+/* https://www.w3schools.com/css/css_link.asp */
+a:hover {
+    background: green;
+}

@@ -1,0 +1,25 @@
+HTML:
+
+<div>
+<label>
+<form>
+<select>
+<option>
+<button>
+<address>
+<h1>
+<br>
+<a>
+
+
+CSS:
+
+background-color
+color
+opacity
+font-family
+background
+
+JavaScript:
+
+I used JavaScript to be able to set the background on my main page. I used Bootstrap to align certain elements.
